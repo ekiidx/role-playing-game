@@ -1,3 +1,3 @@
 # role-playing-game
 
-Role-playing game written in javascript. 
+Role-playing game written in vanilla javascript. 
